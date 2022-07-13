@@ -1,0 +1,31 @@
+.about_card{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+padding: 7% 15% 2%;
+}
+.pad_top{
+    padding-top: 10%;
+}
+.pad_bottom{
+    padding-bottom: 10%;
+}
+.pad_LR{
+    padding:1% 10% 1% 1%;
+}
+.borderRadius{
+    border-radius: 1px 5px 5px 1px !important;
+}
+.btn_icon{
+    padding: 5px 10px;
+background-color: #b0d0ec;
+color: #1e35b0;
+font-weight: bolder;
+font-size: 15px;
+border-radius: 5px 1px 1px 5px;
+text-decoration: none;
+border: none;
+}
+.iconStyle{
+    background-color: transparent;
+}

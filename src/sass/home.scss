@@ -1,0 +1,41 @@
+@import './header.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@500&family=Comfortaa:wght@700&family=Dancing+Script:wght@700&family=Lobster&family=Roboto&family=Roboto+Slab&family=Smooch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@500&family=Comfortaa:wght@700&family=Dancing+Script:wght@700&family=Lobster&family=Roboto&family=Roboto+Slab&family=Secular+One&family=Smooch&display=swap');
+
+.home_container{
+    display: flex;
+    margin: 5%;
+    padding: 2% 4%;
+    justify-content: space-between;
+    align-items: center;
+
+    &_text{
+        max-width: 50%;
+    
+    }
+   
+    .h12{
+        color: #1b1b8f;
+        font-family: 'Secular One', sans-serif;
+        font-weight: bolder;
+        font-size: xxx-large;
+    }
+
+    
+}
+.avatar{
+    width: 100%;
+    height: 100%;
+}
+.para{
+    margin: 25px 2px;
+    color: #000;
+    font-stretch: extra-expanded;
+}
+.h11{
+    color: #050551;
+    font-family: 'Secular One', sans-serif;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
